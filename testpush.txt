@@ -3,4 +3,7 @@ Add a new change
 Third change.
 Init changes + something
 From github web site
+<<<<<<< HEAD
 One more thing
+=======
+>>>>>>> 900f2eae13a3135bd19c6115f23c37fd74899783
